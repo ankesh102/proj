@@ -1,0 +1,53 @@
+{
+    "experiences" : [
+        {
+            "company" : "ABC",
+            "link" : "/",
+            "title" : "Software Developer",
+            "duration" : "April 2022 - Feb 2023" ,
+            "desc" : [
+                "Ankesh Kumar Pandey BTech cse Lpu ",
+                "Ankesh Kumar Pandey BTech cse Lpu "
+            ]
+        },
+        {
+            "company" : "BCD",
+            "link" : "/",
+            "title" : "Senior Software Developer",
+            "duration" : "April 2022 - Feb 2023" ,
+            "desc" : [
+                "Ankesh Kumar Pandey BTech cse Lpu ",
+                "Ankesh Kumar Pandey BTech cse Lpu "
+            ]
+        },
+        {
+            "company" : "BCD",
+            "link" : "/",
+            "title" : "Senior Software Developer",
+            "duration" : "April 2022 - Feb 2023" ,
+            "desc" : [
+                "Ankesh Kumar Pandey BTech cse Lpu ",
+                "Ankesh Kumar Pandey BTech cse Lpu "
+            ]
+        }
+    ],
+    
+    "projects": [
+        {
+            "title" : "Quizz App" ,
+            "image" : "img.png",
+            "desc" : "Normal String Not in Points",
+            "skills" : ["React","Express","MongoDB"],
+            "github" : "/",
+            "link" : "Deploy Project url "
+        },
+        {
+            "title" : "Ecommerce App" ,
+            "image" : "img.png",
+            "desc" : "Normal String Not in Points",
+            "skills" : ["Vue","Express","MongoDB"],
+            "github" : "/",
+            "link" : "Deploy Project url / "
+        }
+    ]
+}
